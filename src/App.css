@@ -3,3 +3,13 @@
   max-width: 960px;
   margin: auto;
 }
+
+.info-display {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.autocomplete-wrapper {
+  margin-top: 2rem;
+}

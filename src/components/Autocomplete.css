@@ -1,3 +1,7 @@
 .city-choices {
     list-style-type: none;
 }
+.city-choices > li:hover,
+.city-choices > li:focus {
+    cursor: pointer;
+}
